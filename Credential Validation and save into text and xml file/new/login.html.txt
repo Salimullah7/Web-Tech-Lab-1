@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>  
+<body>
+
+<form action="class_login.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+Gender: <input type+"text" name="gender"><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
